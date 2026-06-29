@@ -42,7 +42,7 @@ The patterned organization of this reproduction constitutes a viability grammar.
 Author: Gustavo Paulino de Sá Pereira
 Version: 1.0
 Publication year: 2026
-Canonical DOI: [insert Zenodo DOI]
+Canonical DOI: [[insert Zenodo DOI](https://doi.org/10.5281/zenodo.21041785)]
 
 ## Relationship to the Black Belt OS™
 
